@@ -27,7 +27,7 @@ config.font_size = 16.0
 
 config.background = {
 	{
-		source = { File = "/home/suzuran/.config/wezterm/utils/Mad Alice of Pratanallis.jpg" },
+		source = { File = "/home/suzuran/.config/wezterm/utils/bunny_moon.jpeg" },
 		-- "/home/suzuran/.config/wezterm/utils/Alice of Pratanallis.jpeg"
 		width = "Cover",
 		horizontal_align = "Center",
